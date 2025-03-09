@@ -25,7 +25,7 @@
   <h3 align="center">sales-agent-one</h3>
 
   <p align="center">
-    sales-agent-one is an AI agent that helps build a complete customer profile to better server customers.
+    sales-agent-one is an AI agent that helps build a complete customer profile to better serve customers.
     <br />
     <a href="https://github.com/alpuga/sales-agent-one"><strong>Explore the docs »</strong></a>
     <br />
