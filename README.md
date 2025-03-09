@@ -165,7 +165,7 @@ Project Link: [https://github.com/alpuga/sales-agent-one](https://github.com/alp
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/alpuga/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/repo/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/alpuga/sales-agent-one/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/alpuga/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/alpuga/sales-agent-one/network/members
