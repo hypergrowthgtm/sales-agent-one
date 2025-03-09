@@ -1,9 +1,3 @@
-
-*** alpuga, sales-agent-one, alexpuga_, alex@hypergrowthgtm.com, sales-agent-one, sales-agent-one is an AI agent that helps build a complete customer profile to better server customers.
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
