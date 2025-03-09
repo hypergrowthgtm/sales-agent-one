@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/alpuga/sales-agent-one">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="540" height="113">
   </a>
 
   <h3 align="center">sales-agent-one</h3>
