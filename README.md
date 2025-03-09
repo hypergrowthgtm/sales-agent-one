@@ -155,11 +155,11 @@ Project Link: [https://github.com/alpuga/sales-agent-one](https://github.com/alp
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
+<!--
 * []()
 * []()
 * []()
-
+-->
 
 
 
