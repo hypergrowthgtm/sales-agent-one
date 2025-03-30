@@ -10,17 +10,17 @@ const {
 } = process.env;
 
 const app = new FirecrawlApp({
-  apiKey: "FIRECRAWL_API_KEY"
+  apiKey: FIRECRAWL_API_KEY, 
 });
-
 // Define schema to extract contents into
 const schema = z.object({
-  name: z.string(),
-  headline: z.string(),
-  job_title: z.string(),
+  company_mission: z.string(),
+  supports_sso: z.boolean(),
+  is_open_source: z.boolean(),
+  is_in_yc: z.boolean()
 });
 
-const scrapeResult = await app.scrapeUrl("https://linkedin.com/in/alexpuga8/", {
+const scrapeResult = await app.scrapeUrl("https://docs.firecrawl.dev/", {
   formats: ["json"],
   jsonOptions: { schema: schema }
 });
