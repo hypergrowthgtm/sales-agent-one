@@ -3,6 +3,9 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
+
+// Check for required environment variable
+
 const {
   SERP_API_KEY,
 } = process.env;
