@@ -8,4 +8,8 @@ node_modules
 # OS generated files #
 .DS_Store
 
+# Misc
+TODO.md
+
+tasks/ 
 
